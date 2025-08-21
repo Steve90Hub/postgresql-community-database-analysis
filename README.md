@@ -208,7 +208,7 @@ postgresql-community-database-analysis/
 - Problem-solving through systematic data exploration
 
 ## 📧 Contact Information
-**Database Analyst**: [Your Name]  
+**Database Analyst**: Stephen Kiri  
 **Expertise**: PostgreSQL, Data Analysis, Business Intelligence  
 **Specializations**: SQL Development, Database Design, Community Analytics
 
